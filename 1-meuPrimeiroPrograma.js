@@ -12,7 +12,7 @@ console.log(parseInt("2") + parseInt("2"))
 console.log(`meu nome é ${nome} ${sobrenome}`)
 
 let contador = 1
-contador += 1
+contador += 1 
 
 console.log(contador)
 
